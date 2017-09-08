@@ -1,5 +1,5 @@
 #include <iostream>
-
+ 
 using namespace std;
 
 template <class heso,class somu>
